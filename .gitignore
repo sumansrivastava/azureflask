@@ -1,0 +1,8 @@
+*.file
+!name/*.file
+junk.*
+*.file
+!name.file
+*.file
+Dockerfile*
+
